@@ -1,3 +1,5 @@
+This exercise is about learning to create container from public images, give them configuration and remove to clean up.
+
 1a. 
     Create one nginx container named `digia`, 
     Port 80 -> 100
